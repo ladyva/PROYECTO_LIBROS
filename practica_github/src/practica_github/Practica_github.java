@@ -20,7 +20,7 @@ public class Practica_github {
         // TODO code application logic here
         //puto el que lee
         JOptionPane.showMessageDialog(null, "hola mundo");
-        
+        JOptionPane.showMessageDialog(null, "que mas chichi");
     }
     
 }
