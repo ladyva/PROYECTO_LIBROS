@@ -22,6 +22,7 @@ public class Practica_github {
         JOptionPane.showMessageDialog(null, "hola mundo");
         JOptionPane.showMessageDialog(null, "que mas chichi");
         JOptionPane.showMessageDialog(null, "nos salio  creo ajja");
+        JOptionPane.showMessageDialog(null, "si si nos salio weya");
     }
     
 }
