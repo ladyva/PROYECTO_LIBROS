@@ -21,6 +21,7 @@ public class Practica_github {
         //puto el que lee
         JOptionPane.showMessageDialog(null, "hola mundo");
         JOptionPane.showMessageDialog(null, "que mas chichi");
+        JOptionPane.showMessageDialog(null, "nos salio  creo ajja");
     }
     
 }
