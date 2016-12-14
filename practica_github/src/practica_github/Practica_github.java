@@ -5,6 +5,8 @@
  */
 package practica_github;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Valeria
@@ -17,6 +19,7 @@ public class Practica_github {
     public static void main(String[] args) {
         // TODO code application logic here
         //puto el que lee
+        JOptionPane.showMessageDialog(null, "hola mundo");
         
     }
     
