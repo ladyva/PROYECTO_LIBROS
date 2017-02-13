@@ -15,7 +15,6 @@ public class INTERFAZ extends javax.swing.JFrame {
      * Creates new form INTERFAZ
      */
     public INTERFAZ() {
-        initComponents();
     }
 
     /**
